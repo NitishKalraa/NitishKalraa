@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **nitishkalraa@gmail.com**
-
 - ⚡ Fun fact **I love movies.**
 
 <h3 align="left">Connect with me:</h3>
