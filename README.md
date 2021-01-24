@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish Kalra</h1>
-<h3 align="center">A passionate beginner from Punjab,India</h3>
+<h3 align="center">CODING IS THE LANGUAGE OF CREATIVITY!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishkalraa&label=Profile%20views&color=12181c&style=plastic" alt="nitishkalraa" /> </p>
 
